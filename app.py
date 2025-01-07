@@ -6,6 +6,8 @@ from util import json_read_file
 # Sample JSON data
 json_data = json_read_file("properties.json")
 
+st.set_page_config(layout="wide")
+
 # Average price per square meter for the area
 average_price_per_m2 = 12966
 
