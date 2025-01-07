@@ -34,8 +34,8 @@ for _, row in df.iterrows():
     st.markdown(f"### [{row['name']}]({row['href']})")
     col1, col2 = st.columns([1,1])
     with col1:
-        st.write(f"- **Rooms:** {row['rooms']} EUR")
-        st.write(f"- **Floor:** {row['floor']} EUR")
+        st.write(f"- **Rooms:** {row['rooms']}")
+        st.write(f"- **Floor:** {row['floor']}")
         st.write(f"- **Size:** {row['m2']} m²")
 
     with col2:
