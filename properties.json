@@ -1,0 +1,542 @@
+{
+    "https://www.idealista.it/en/immobile/30970289/": {
+        "name": "Flat / Apartment in Duomo - San Babila, Milano",
+        "price": "2100000",
+        "m2": "125",
+        "price/m2": 16800.0,
+        "rooms": "5",
+        "floor": "without lift",
+        "href": "https://www.idealista.it/en/immobile/30970289/"
+    },
+    "https://www.idealista.it/en/immobile/29700807/": {
+        "name": "3 room flat in via Santa Tecla, 3, Duomo - San Babila, Milano",
+        "price": "1550000",
+        "m2": "96",
+        "price/m2": 16145.833333333334,
+        "rooms": "3",
+        "floor": "2nd floor with lift",
+        "href": "https://www.idealista.it/en/immobile/29700807/"
+    },
+    "https://www.idealista.it/en/immobile/31601466/": {
+        "name": "4 room flat in via dei Piatti, Carrobbio - Cinque Vie, Milano",
+        "price": "1797000",
+        "m2": "185",
+        "price/m2": 9713.513513513513,
+        "rooms": "4",
+        "floor": "2nd floor with lift",
+        "href": "https://www.idealista.it/en/immobile/31601466/"
+    },
+    "https://www.idealista.it/en/immobile/31438428/": {
+        "name": "2 room flat in via Flavio Baracchini, 2, Missori - Augusto, Milano",
+        "price": "625000",
+        "m2": "45",
+        "price/m2": 13888.888888888889,
+        "rooms": "2",
+        "floor": "1st floor with lift",
+        "href": "https://www.idealista.it/en/immobile/31438428/"
+    },
+    "https://www.idealista.it/en/immobile/27171483/": {
+        "name": "Flat / Apartment in via Giuseppe Mazzini, Duomo - San Babila, Milano",
+        "price": "3600000",
+        "m2": "260",
+        "price/m2": 13846.153846153846,
+        "rooms": "7",
+        "floor": "5th floor with lift",
+        "href": "https://www.idealista.it/en/immobile/27171483/"
+    },
+    "https://www.idealista.it/en/immobile/28354132/": {
+        "name": "3 room flat in via Festa del Perdono, Missori - Augusto, Milano",
+        "price": "1300000",
+        "m2": "131",
+        "price/m2": 9923.664122137405,
+        "rooms": "3",
+        "floor": "4th floor with lift",
+        "href": "https://www.idealista.it/en/immobile/28354132/"
+    },
+    "https://www.idealista.it/en/immobile/29015966/": {
+        "name": "4 room flat in via Zebedia, 9, Missori - Augusto, Milano",
+        "price": "1350000",
+        "m2": "135",
+        "price/m2": 10000.0,
+        "rooms": "4",
+        "floor": "3rd floor with lift",
+        "href": "https://www.idealista.it/en/immobile/29015966/"
+    },
+    "https://www.idealista.it/en/immobile/30095648/": {
+        "name": "2 room flat in piazza del Duomo, Nn, Duomo - San Babila, Milano",
+        "price": "550000",
+        "m2": "52",
+        "price/m2": 10576.923076923076,
+        "rooms": "2",
+        "floor": "Ground floor with lift",
+        "href": "https://www.idealista.it/en/immobile/30095648/"
+    },
+    "https://www.idealista.it/en/immobile/31253910/": {
+        "name": "2 room flat in via Festa del Perdono, Missori - Augusto, Milano",
+        "price": "915000",
+        "m2": "90",
+        "price/m2": 10166.666666666666,
+        "rooms": "2",
+        "floor": "2nd floor with lift",
+        "href": "https://www.idealista.it/en/immobile/31253910/"
+    },
+    "https://www.idealista.it/en/immobile/30810643/": {
+        "name": "2 room flat in piazza Santa Maria Beltrade, 1, Carrobbio - Cinque Vie, Milano",
+        "price": "550000",
+        "m2": "52",
+        "price/m2": 10576.923076923076,
+        "rooms": "2",
+        "floor": "Ground floor without lift",
+        "href": "https://www.idealista.it/en/immobile/30810643/"
+    },
+    "https://www.idealista.it/en/immobile/31217010/": {
+        "name": "Duplex in via Cardinal Federico, Nn, Carrobbio - Cinque Vie, Milano",
+        "price": "1150000",
+        "m2": "142",
+        "price/m2": 8098.591549295775,
+        "rooms": "4",
+        "floor": "4th floor without lift",
+        "href": "https://www.idealista.it/en/immobile/31217010/"
+    },
+    "https://www.idealista.it/en/immobile/31184152/": {
+        "name": "Flat / Apartment in via Sant'Antonio, 13, Missori - Augusto, Milano",
+        "price": "2690000",
+        "m2": "243",
+        "price/m2": 11069.958847736625,
+        "rooms": "5",
+        "floor": "3rd floor with lift",
+        "href": "https://www.idealista.it/en/immobile/31184152/"
+    },
+    "https://www.idealista.it/en/immobile/25622205/": {
+        "name": "4 room flat in via San Pietro All'Orto, 9, Duomo - San Babila, Milano",
+        "price": "3200000",
+        "m2": "230",
+        "price/m2": 13913.04347826087,
+        "rooms": "4",
+        "floor": "2nd floor with lift",
+        "href": "https://www.idealista.it/en/immobile/25622205/"
+    },
+    "https://www.idealista.it/en/immobile/28516541/": {
+        "name": "3 room flat in via del Lauro, Duomo - San Babila, Milano",
+        "price": "1600000",
+        "m2": "95",
+        "price/m2": 16842.105263157893,
+        "rooms": "3",
+        "floor": "with lift",
+        "href": "https://www.idealista.it/en/immobile/28516541/"
+    },
+    "https://www.idealista.it/en/immobile/30818999/": {
+        "name": "Flat / Apartment in via degli Arcimboldi, 2, Missori - Augusto, Milano",
+        "price": "1490000",
+        "m2": "180",
+        "price/m2": 8277.777777777777,
+        "rooms": "8",
+        "floor": "1st floor with lift",
+        "href": "https://www.idealista.it/en/immobile/30818999/"
+    },
+    "https://www.idealista.it/en/immobile/31497879/": {
+        "name": "Flat / Apartment in via Giuseppe Mazzini, Missori - Augusto, Milano",
+        "price": "3600000",
+        "m2": "250",
+        "price/m2": 14400.0,
+        "rooms": "6",
+        "floor": "3rd floor with lift",
+        "href": "https://www.idealista.it/en/immobile/31497879/"
+    },
+    "https://www.idealista.it/en/immobile/30225037/": {
+        "name": "Duplex in piazza della Scala, Duomo - San Babila, Milano",
+        "price": "1370000",
+        "m2": "96",
+        "price/m2": 14270.833333333334,
+        "rooms": "2",
+        "floor": "3rd floor with lift",
+        "href": "https://www.idealista.it/en/immobile/30225037/"
+    },
+    "https://www.idealista.it/en/immobile/30776762/": {
+        "name": "Duplex in via Meravigli, Duomo - San Babila, Milano",
+        "price": "2300000",
+        "m2": "257",
+        "price/m2": 8949.41634241245,
+        "rooms": "6",
+        "floor": "2nd floor with lift",
+        "href": "https://www.idealista.it/en/immobile/30776762/"
+    },
+    "https://www.idealista.it/en/immobile/31408672/": {
+        "name": "4 room flat in via Monte Napoleone, Quadrilatero della Moda, Milano",
+        "price": "5500000",
+        "m2": "160",
+        "price/m2": 34375.0,
+        "rooms": "4",
+        "floor": "3rd floor with lift",
+        "href": "https://www.idealista.it/en/immobile/31408672/"
+    },
+    "https://www.idealista.it/en/immobile/30076224/": {
+        "name": "Flat / Apartment in via Francesco Sforza, Tribunale - Guastalla, Milano",
+        "price": "3750000",
+        "m2": "345",
+        "price/m2": 10869.565217391304,
+        "rooms": "6",
+        "floor": "3rd floor with lift",
+        "href": "https://www.idealista.it/en/immobile/30076224/"
+    },
+    "https://www.idealista.it/en/immobile/30179248/": {
+        "name": "3 room flat in via Sant'Antonio, Missori - Augusto, Milano",
+        "price": "1680000",
+        "m2": "118",
+        "price/m2": 14237.28813559322,
+        "rooms": "3",
+        "floor": "3rd floor with lift",
+        "href": "https://www.idealista.it/en/immobile/30179248/"
+    },
+    "https://www.idealista.it/en/immobile/31266696/": {
+        "name": "2 room flat in via Falcone, Missori - Augusto, Milano",
+        "price": "855000",
+        "m2": "60",
+        "price/m2": 14250.0,
+        "rooms": "2",
+        "floor": "1st floor with lift",
+        "href": "https://www.idealista.it/en/immobile/31266696/"
+    },
+    "https://www.idealista.it/en/immobile/30108615/": {
+        "name": "2 room flat in via Sant'Antonio, 2, Missori - Augusto, Milano",
+        "price": "950000",
+        "m2": "70",
+        "price/m2": 13571.42857142857,
+        "rooms": "2",
+        "floor": "6th floor with lift",
+        "href": "https://www.idealista.it/en/immobile/30108615/"
+    },
+    "https://www.idealista.it/en/immobile/31353015/": {
+        "name": "2 room flat in via Giuseppe Mazzini, 12, Missori - Augusto, Milano",
+        "price": "850000",
+        "m2": "55",
+        "price/m2": 15454.545454545454,
+        "rooms": "2",
+        "floor": "5th floor with lift",
+        "href": "https://www.idealista.it/en/immobile/31353015/"
+    },
+    "https://www.idealista.it/en/immobile/29793345/": {
+        "name": "2 room flat in via dell'Unione, 3, Missori - Augusto, Milano",
+        "price": "615000",
+        "m2": "45",
+        "price/m2": 13666.666666666666,
+        "rooms": "2",
+        "floor": "2nd floor with lift",
+        "href": "https://www.idealista.it/en/immobile/29793345/"
+    },
+    "https://www.idealista.it/en/immobile/25844887/": {
+        "name": "3 room flat in via Rovello, Duomo - San Babila, Milano",
+        "price": "1410000",
+        "m2": "95",
+        "price/m2": 14842.105263157895,
+        "rooms": "3",
+        "floor": "5th floor with lift",
+        "href": "https://www.idealista.it/en/immobile/25844887/"
+    },
+    "https://www.idealista.it/en/immobile/29952511/": {
+        "name": "Flat / Apartment in via dei Piatti, Carrobbio - Cinque Vie, Milano",
+        "price": "1550000",
+        "m2": "270",
+        "price/m2": 5740.740740740741,
+        "rooms": "7",
+        "floor": "Ground floor with lift",
+        "href": "https://www.idealista.it/en/immobile/29952511/"
+    },
+    "https://www.idealista.it/en/immobile/31085958/": {
+        "name": "Flat / Apartment in via Francesco Sforza, Tribunale - Guastalla, Milano",
+        "price": "4900000",
+        "m2": "305",
+        "price/m2": 16065.573770491803,
+        "rooms": "7",
+        "floor": "7th floor with lift",
+        "href": "https://www.idealista.it/en/immobile/31085958/"
+    },
+    "https://www.idealista.it/en/immobile/30057942/": {
+        "name": "2 room flat in via Giuseppe Mazzini, 1, Missori - Augusto, Milano",
+        "price": "780000",
+        "m2": "57",
+        "price/m2": 13684.21052631579,
+        "rooms": "2",
+        "floor": "5th floor with lift",
+        "href": "https://www.idealista.it/en/immobile/30057942/"
+    },
+    "https://www.idealista.it/en/immobile/29975630/": {
+        "name": "2 room flat in via Falcone, 5, Missori - Augusto, Milano",
+        "price": "690000",
+        "m2": "45",
+        "price/m2": 15333.333333333334,
+        "rooms": "2",
+        "floor": "5th floor with lift",
+        "href": "https://www.idealista.it/en/immobile/29975630/"
+    },
+    "https://www.idealista.it/en/immobile/29697278/": {
+        "name": "Duplex in via Torino, Carrobbio - Cinque Vie, Milano",
+        "price": "2600000",
+        "m2": "255",
+        "price/m2": 10196.078431372549,
+        "rooms": "5",
+        "floor": "5th floor with lift",
+        "href": "https://www.idealista.it/en/immobile/29697278/"
+    },
+    "https://www.idealista.it/en/immobile/29502839/": {
+        "name": "Flat / Apartment in via Giuseppe Mazzini, Nn, Duomo - San Babila, Milano",
+        "price": "3600000",
+        "m2": "240",
+        "price/m2": 15000.0,
+        "rooms": "6",
+        "floor": "3rd floor with lift",
+        "href": "https://www.idealista.it/en/immobile/29502839/"
+    },
+    "https://www.idealista.it/en/immobile/30944463/": {
+        "name": "3 room flat in via Torino, Carrobbio - Cinque Vie, Milano",
+        "price": "890000",
+        "m2": "90",
+        "price/m2": 9888.888888888889,
+        "rooms": "3",
+        "floor": "1st floor with lift",
+        "href": "https://www.idealista.it/en/immobile/30944463/"
+    },
+    "https://www.idealista.it/en/immobile/31579558/": {
+        "name": "2 room flat in via Falcone, 7, Missori - Augusto, Milano",
+        "price": "650000",
+        "m2": "60",
+        "price/m2": 10833.333333333334,
+        "rooms": "2",
+        "floor": "2nd floor with lift",
+        "href": "https://www.idealista.it/en/immobile/31579558/"
+    },
+    "https://www.idealista.it/en/immobile/31336061/": {
+        "name": "Duplex in via degli Arcimboldi, 5, Missori - Augusto, Milano",
+        "price": "925000",
+        "m2": "120",
+        "price/m2": 7708.333333333333,
+        "rooms": "3",
+        "floor": "Ground floor with lift",
+        "href": "https://www.idealista.it/en/immobile/31336061/"
+    },
+    "https://www.idealista.it/en/immobile/29222798/": {
+        "name": "3 room flat in largo Richini, Missori - Augusto, Milano",
+        "price": "1500000",
+        "m2": "130",
+        "price/m2": 11538.461538461539,
+        "rooms": "3",
+        "floor": "2nd floor with lift",
+        "href": "https://www.idealista.it/en/immobile/29222798/"
+    },
+    "https://www.idealista.it/en/immobile/31389019/": {
+        "name": "3 room flat in via dell'Unione, Missori - Augusto, Milano",
+        "price": "660000",
+        "m2": "70",
+        "price/m2": 9428.57142857143,
+        "rooms": "3",
+        "floor": "1st floor with lift",
+        "href": "https://www.idealista.it/en/immobile/31389019/"
+    },
+    "https://www.idealista.it/en/immobile/31513847/": {
+        "name": "2 room flat in piazza del Duomo, Nn, Duomo - San Babila, Milano",
+        "price": "890000",
+        "m2": "70",
+        "price/m2": 12714.285714285714,
+        "rooms": "2",
+        "floor": "3rd floor with lift",
+        "href": "https://www.idealista.it/en/immobile/31513847/"
+    },
+    "https://www.idealista.it/en/immobile/24446015/": {
+        "name": "2 room flat in via Broletto, Nn, Duomo - San Babila, Milano",
+        "price": "680000",
+        "m2": "70",
+        "price/m2": 9714.285714285714,
+        "rooms": "2",
+        "floor": "1st floor with lift",
+        "href": "https://www.idealista.it/en/immobile/24446015/"
+    },
+    "https://www.idealista.it/en/immobile/27078465/": {
+        "name": "3 room flat in Duomo - San Babila, Milano",
+        "price": "720000",
+        "m2": "72",
+        "price/m2": 10000.0,
+        "rooms": "3",
+        "floor": "2nd floor without lift",
+        "href": "https://www.idealista.it/en/immobile/27078465/"
+    },
+    "https://www.idealista.it/en/immobile/27841160/": {
+        "name": "Flat / Apartment in via della Spiga, Quadrilatero della Moda, Milano",
+        "price": "4500000",
+        "m2": "200",
+        "price/m2": 22500.0,
+        "rooms": "10",
+        "floor": "1st floor with lift",
+        "href": "https://www.idealista.it/en/immobile/27841160/"
+    },
+    "https://www.idealista.it/en/immobile/31527670/": {
+        "name": "2 room flat in via Falcone, 7, Missori - Augusto, Milano",
+        "price": "650000",
+        "m2": "60",
+        "price/m2": 10833.333333333334,
+        "rooms": "2",
+        "floor": "2nd floor with lift",
+        "href": "https://www.idealista.it/en/immobile/31527670/"
+    },
+    "https://www.idealista.it/en/immobile/25320850/": {
+        "name": "3 room flat in Missori - Augusto, Milano",
+        "price": "1102100",
+        "m2": "118",
+        "price/m2": 9339.830508474577,
+        "rooms": "3",
+        "floor": "Mezzanine with lift",
+        "href": "https://www.idealista.it/en/immobile/25320850/"
+    },
+    "https://www.idealista.it/en/immobile/30402022/": {
+        "name": "2 room flat in via Torino, Carrobbio - Cinque Vie, Milano",
+        "price": "649000",
+        "m2": "85",
+        "price/m2": 7635.294117647059,
+        "rooms": "2",
+        "floor": "1st floor without lift",
+        "href": "https://www.idealista.it/en/immobile/30402022/"
+    },
+    "https://www.idealista.it/en/immobile/30833735/": {
+        "name": "4 room flat in Duomo - San Babila, Milano",
+        "price": "1390000",
+        "m2": "145",
+        "price/m2": 9586.206896551725,
+        "rooms": "4",
+        "floor": "1st floor with lift",
+        "href": "https://www.idealista.it/en/immobile/30833735/"
+    },
+    "https://www.idealista.it/en/immobile/30949195/": {
+        "name": "2 room flat in Duomo - San Babila, Milano",
+        "price": "520000",
+        "m2": "50",
+        "price/m2": 10400.0,
+        "rooms": "2",
+        "floor": "2nd floor with lift",
+        "href": "https://www.idealista.it/en/immobile/30949195/"
+    },
+    "https://www.idealista.it/en/immobile/31122419/": {
+        "name": "3 room flat in Missori - Augusto, Milano",
+        "price": "2800000",
+        "m2": "200",
+        "price/m2": 14000.0,
+        "rooms": "3",
+        "floor": "2nd floor without lift",
+        "href": "https://www.idealista.it/en/immobile/31122419/"
+    },
+    "https://www.idealista.it/en/immobile/30199550/": {
+        "name": "3 room flat in Duomo - San Babila, Milano",
+        "price": "3600000",
+        "m2": "250",
+        "price/m2": 14400.0,
+        "rooms": "3",
+        "floor": "3rd floor without lift",
+        "href": "https://www.idealista.it/en/immobile/30199550/"
+    },
+    "https://www.idealista.it/en/immobile/28486259/": {
+        "name": "Flat / Apartment in via Giuseppe Mazzini, 20, Missori - Augusto, Milano",
+        "price": "3600000",
+        "m2": "330",
+        "price/m2": 10909.09090909091,
+        "rooms": "10",
+        "floor": "2nd floor with lift",
+        "href": "https://www.idealista.it/en/immobile/28486259/"
+    },
+    "https://www.idealista.it/en/immobile/31022171/": {
+        "name": "3 room flat in corso Vittorio Emanuele II, Duomo - San Babila, Milano",
+        "price": "3500000",
+        "m2": "205",
+        "price/m2": 17073.170731707316,
+        "rooms": "3",
+        "floor": "5th floor with lift",
+        "href": "https://www.idealista.it/en/immobile/31022171/"
+    },
+    "https://www.idealista.it/en/immobile/30145957/": {
+        "name": "Flat / Apartment in Duomo - San Babila, Milano",
+        "price": "435000",
+        "m2": "150",
+        "price/m2": 2900.0,
+        "rooms": "5",
+        "floor": "Semi-basement with lift",
+        "href": "https://www.idealista.it/en/immobile/30145957/"
+    },
+    "https://www.idealista.it/en/immobile/29809029/": {
+        "name": "Flat / Apartment in piazza Santo Stefano, Missori - Augusto, Milano",
+        "price": "1750000",
+        "m2": "137",
+        "price/m2": 12773.722627737227,
+        "rooms": "5",
+        "floor": "1st floor with lift",
+        "href": "https://www.idealista.it/en/immobile/29809029/"
+    },
+    "https://www.idealista.it/en/immobile/31513229/": {
+        "name": "2 room flat in piazza del Duomo, Nn, Duomo - San Babila, Milano",
+        "price": "640000",
+        "m2": "40",
+        "price/m2": 16000.0,
+        "rooms": "2",
+        "floor": "3rd floor with lift",
+        "href": "https://www.idealista.it/en/immobile/31513229/"
+    },
+    "https://www.idealista.it/en/immobile/30859701/": {
+        "name": "2 room flat in via Santa Marta, Carrobbio - Cinque Vie, Milano",
+        "price": "800000",
+        "m2": "85",
+        "price/m2": 9411.764705882353,
+        "rooms": "2",
+        "floor": "5th floor with lift",
+        "href": "https://www.idealista.it/en/immobile/30859701/"
+    },
+    "https://www.idealista.it/en/immobile/31184728/": {
+        "name": "3 room flat in via Cusani, Duomo - San Babila, Milano",
+        "price": "3000000",
+        "m2": "193",
+        "price/m2": 15544.041450777202,
+        "rooms": "3",
+        "floor": "10th floor with lift",
+        "href": "https://www.idealista.it/en/immobile/31184728/"
+    },
+    "https://www.idealista.it/en/immobile/29026192/": {
+        "name": "3 room flat in galleria del Corso, 4, Duomo - San Babila, Milano",
+        "price": "860000",
+        "m2": "70",
+        "price/m2": 12285.714285714286,
+        "rooms": "3",
+        "floor": "1st floor with lift",
+        "href": "https://www.idealista.it/en/immobile/29026192/"
+    },
+    "https://www.idealista.it/en/immobile/30020990/": {
+        "name": "Flat / Apartment in piazza del Duomo, Nn, Duomo - San Babila, Milano",
+        "price": "3800000",
+        "m2": "290",
+        "price/m2": 13103.448275862069,
+        "rooms": "5",
+        "floor": "2nd floor with lift",
+        "href": "https://www.idealista.it/en/immobile/30020990/"
+    },
+    "https://www.idealista.it/en/immobile/30019517/": {
+        "name": "Penthouse in piazza del Duomo, Nn, Duomo - San Babila, Milano",
+        "price": "2830000",
+        "m2": "250",
+        "price/m2": 11320.0,
+        "rooms": "5",
+        "floor": "6th floor with lift",
+        "href": "https://www.idealista.it/en/immobile/30019517/"
+    },
+    "https://www.idealista.it/en/immobile/25198608/": {
+        "name": "Penthouse in piazza Duomo, Nn, Duomo - San Babila, Milano",
+        "price": "6500000",
+        "m2": "270",
+        "price/m2": 24074.074074074073,
+        "rooms": "8",
+        "floor": "5th floor with lift",
+        "href": "https://www.idealista.it/en/immobile/25198608/"
+    },
+    "https://www.idealista.it/en/immobile/30928546/": {
+        "name": "3 room flat in Duomo - San Babila, Milano",
+        "price": "2100000",
+        "m2": "95",
+        "price/m2": 22105.263157894737,
+        "rooms": "3",
+        "floor": "with lift",
+        "href": "https://www.idealista.it/en/immobile/30928546/"
+    }
+}
