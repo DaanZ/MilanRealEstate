@@ -42,8 +42,10 @@ for _, row in df.iterrows():
         st.write(f"- **Total Price:** {row['price']} EUR")
         st.write(f"- **Price per m²:** {row['price/m2']:.2f} EUR/m²")
         difference = row["difference_from_avg"]
+        percentage = round(abs(difference / average_price_per_m2) * 100, 1)
+
         if difference > 0:
-            st.write(f"- **Above Average:** +{difference:.2f} EUR/m²")
+            st.write(f"-  **Percentage Above Average:** {percentage}%")
         else:
-            st.write(f"- **Below Average:** {difference:.2f} EUR/m²")
+            st.write(f"-  **Percentage Below Average:** {percentage}%")
     st.write("---")
